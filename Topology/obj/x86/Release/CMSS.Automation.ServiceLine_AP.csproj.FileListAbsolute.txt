@@ -1,0 +1,9 @@
+C:\Projects\TGS\CMSS.Automation.ServiceLine_AP\CMSS.Automation.ServiceLine_AP\obj\x86\Release\CMSS.Automation.ServiceLine_AP.mainForm.resources
+C:\Projects\TGS\CMSS.Automation.ServiceLine_AP\CMSS.Automation.ServiceLine_AP\obj\x86\Release\CMSS.Automation.ServiceLine_AP.Properties.Resources.resources
+C:\Projects\TGS\CMSS.Automation.ServiceLine_AP\CMSS.Automation.ServiceLine_AP\obj\x86\Release\CMSS.Automation.ServiceLine_AP.csproj.GenerateResource.Cache
+C:\Projects\TGS\CMSS.Automation.ServiceLine_AP\CMSS.Automation.ServiceLine_AP\bin\Release\CMSS.Automation.ServiceLine_AP.exe.config
+C:\Projects\TGS\CMSS.Automation.ServiceLine_AP\CMSS.Automation.ServiceLine_AP\bin\Release\CMSS.Automation.ServiceLine_AP.exe
+C:\Projects\TGS\CMSS.Automation.ServiceLine_AP\CMSS.Automation.ServiceLine_AP\bin\Release\CMSS.Automation.ServiceLine_AP.pdb
+C:\Projects\TGS\CMSS.Automation.ServiceLine_AP\CMSS.Automation.ServiceLine_AP\obj\x86\Release\CMSS.Automation.ServiceLine_AP.exe
+C:\Projects\TGS\CMSS.Automation.ServiceLine_AP\CMSS.Automation.ServiceLine_AP\obj\x86\Release\CMSS.Automation.ServiceLine_AP.pdb
+C:\Projects\TGS\CMSS.Automation.ServiceLine_AP\CMSS.Automation.ServiceLine_AP\obj\x86\Release\CMSS.Automation.ServiceLine_AP.csprojResolveAssemblyReference.cache

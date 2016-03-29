@@ -1,0 +1,8 @@
+E:\office\Topology\Topology\Topology\bin\Debug\Topology.exe.config
+E:\office\Topology\Topology\Topology\bin\Debug\Topology.exe
+E:\office\Topology\Topology\Topology\bin\Debug\Topology.pdb
+E:\office\Topology\Topology\Topology\obj\x86\Debug\Topology.mainForm.resources
+E:\office\Topology\Topology\Topology\obj\x86\Debug\Topology.Properties.Resources.resources
+E:\office\Topology\Topology\Topology\obj\x86\Debug\Topology.csproj.GenerateResource.Cache
+E:\office\Topology\Topology\Topology\obj\x86\Debug\Topology.exe
+E:\office\Topology\Topology\Topology\obj\x86\Debug\Topology.pdb
